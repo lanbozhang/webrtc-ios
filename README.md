@@ -7,3 +7,9 @@ Add one line to your Podfile
 ```
 pod 'WebRTC', :podspec => 'https://raw.githubusercontent.com/lanbozhang/webrtc-ios/masters/WebRTC.podspec'
 ````
+
+
+check repo on how to make a build
+```
+https://github.com/pristineio/webrtc-build-scripts
+```
