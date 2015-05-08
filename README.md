@@ -5,7 +5,7 @@ Static libraries (armv7, arm64, x86, x86_64) and header files for WebRTC package
 
 Add one line to your Podfile
 ```
-pod 'WebRTC', :podspec => 'https://raw.githubusercontent.com/lanbozhang/webrtc-ios/masters/WebRTC.podspec'
+pod 'WebRTC', :podspec => 'https://raw.githubusercontent.com/lanbozhang/webrtc-ios/master/WebRTC.podspec'
 ````
 
 
